@@ -17,7 +17,9 @@ public class PlanillaEntity {
 
     private String quincena;
 
-    private String codigo_proveedor;
+    private String codigoProveedor;
+
+    private String nombreProveedor;
 
     private Double totalKlsLeche;
 
